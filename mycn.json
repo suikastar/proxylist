@@ -4,7 +4,10 @@
     {
       "domain": [],
       "domain_keyword": [],
-      "domain_suffix": ["doudou520.online"],
+      "domain_suffix": [
+        "doudou520.online",
+        "download-cdn.jetbrains.com"
+      ],
       "domain_regex": []
     }
   ]
