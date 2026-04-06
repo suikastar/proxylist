@@ -1,0 +1,18 @@
+{
+  "version": 4,
+  "rules": [
+    {
+      "domain": [],
+      "domain_keyword": [],
+      "domain_suffix": [
+        "connectivitycheck.gstatic.com",
+        "googleapis.com",
+        "apis.google.com",
+        "services.googleapis.cn",
+        "play.googleapis.com",
+        "xn--ngstr-lra8j.com"
+      ],
+      "domain_regex": ["^.*clients.*\\.google\\.com$"]
+    }
+  ]
+}
